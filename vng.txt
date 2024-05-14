@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://gg.gg/coocaaE" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
-#EXTINF:0 tvg-id="vcine" group-title="BQ" tvg-logo="https://i.imgur.com/ZxEieHa.png",Bản quyền | ❤️Đỗ Viết Sỹ❤️
+#EXTINF:0 tvg-id="boxmovie1" group-title="BQ" tvg-logo="https://i.imgur.com/ZxEieHa.png",Bản quyền | ❤️Đỗ Viết Sỹ❤️
 #EXTVLCOPT:http-user-agent=dovietsy
-https://devsy.pw/tvhd/9850/index.m3u8
+https://devsy.pw/tvhd/159/index.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-VTV
 #-*-❤️-VTV*VIEON-*--#
