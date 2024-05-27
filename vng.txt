@@ -861,7 +861,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvon
 
 #EXTINF:-1 tvg-id="happykids" group-title="🪐|BOX SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest?cb=20220224003859&path-prefix=vi",Happy Kids
 #EXTVLCOPT:http-user-agent="dovietsy"
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykids/index.m3u8|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/kids/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="drfit" group-title="🪐|BOX SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/Dr.Fit_logo.png/revision/latest?cb=20230114060808&path-prefix=vi",Dr.Fit
 #EXTVLCOPT:http-user-agent="dovietsy"
