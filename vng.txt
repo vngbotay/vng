@@ -348,7 +348,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8|Referer=http://sctvo
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV17
 #EXTVLCOPT:http-user-agent="dovietsy"
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🪐| SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV18
 #EXTVLCOPT:http-user-agent="dovietsy"
